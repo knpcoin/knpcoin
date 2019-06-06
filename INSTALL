@@ -1,0 +1,10 @@
+Building KNP
+
+
+See doc/readme-qt.rst for instructions on building KNP QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of KNP.
+
+See doc/build-*.txt for instructions on building knpd,
+the intended-for-services, no-graphical-interface, reference
+implementation of KNP.
