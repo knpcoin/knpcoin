@@ -1,0 +1,40 @@
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+build/
+compile-knp.sh
+lib/
+plugins/
+release/
+KNP-qt.pro.user
+contrib/
+translations/
+src/tscd
+src/.DS_Store
+src/qt/res/.DS_Store
+src/qt/res/images/.DS_Store
+.DS_Store
+KNP-Qt.dmg
+KNP-qt.pro.autosave
+*.qm
